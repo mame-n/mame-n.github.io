@@ -6,7 +6,6 @@
 
 <h1> ふるHTMLでも書けそう </h1>
 
-
 * [CoderDojo西那須野](/coderdojo.md/)
   * いつやるの
   * そもそもDojoって
