@@ -5,4 +5,4 @@
 特に何もありません。
 
 *　CoderDojo西那須野
-＊ Viscuitワークショップ
+＊　Viscuitワークショップ
